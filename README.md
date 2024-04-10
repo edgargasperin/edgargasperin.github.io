@@ -76,9 +76,9 @@ Some of my recorded research talks can be watched here:
 
 [Video - CENTRA seminar](https://www.youtube.com/watch?v=E18QPZD0rsw&t=963s)
 
-[Video Banff](https://www.birs.ca/events/2022/5-day-workshops/22w5025/videos/watch/202204271016-GasperinGarcia.html) 
+[Video - Banff](https://www.birs.ca/events/2022/5-day-workshops/22w5025/videos/watch/202204271016-GasperinGarcia.html) 
 
-[Video F-ciencias UNAM](https://www.facebook.com/matefcienciasunam/videos/333825669643721/)
+[Video F-Ciencias UNAM](https://www.facebook.com/matefcienciasunam/videos/333825669643721/)
 
 
 ## Publications
