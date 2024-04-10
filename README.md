@@ -18,10 +18,10 @@ Postdoc researcher at Instituto Superior Técnico - Lisboa, Portugal [(IST)](htt
 
 ## Education
 
-PhD in Mathematics, Queen Mary University of London.
+PhD in Mathematics, Queen Mary University of London, London, UK.
 [Thesis](https://qmro.qmul.ac.uk/xmlui/handle/123456789/25820)
 
-BSc Physics, Universidad Nacional Autónoma de México.
+BSc Physics, Universidad Nacional Autónoma de México. Mexico city, Mex.
 [Dissertation](https://repositorio.unam.mx/contenidos/411870)
 
 ## Supervision
