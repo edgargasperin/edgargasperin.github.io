@@ -12,9 +12,9 @@ Fundação para a Ciência e a Tecnologia [(FCT)](https://www.fct.pt/) fellowshi
 
 ## Past positions
 
-Postdoc researcher at Institut de Mathématiques de Bourgogne [(IMB)](https://math.u-bourgogne.fr/)
+Postdoc researcher at Institut de Mathématiques de Bourgogne - Dijon, France [(IMB)](https://math.u-bourgogne.fr/)
 
-Postdoc researcher at Instituto Superior Técnico - Lisboa [(IST)](https://tecnico.ulisboa.pt/pt/)
+Postdoc researcher at Instituto Superior Técnico - Lisboa, Portugal [(IST)](https://tecnico.ulisboa.pt/pt/)
 
 ## Education
 
