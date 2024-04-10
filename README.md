@@ -46,9 +46,11 @@ Ghewa Dorra.Master year-1 project supervision @ IMB
 
 2024 Waves and Oscillations. BSc first year course (>120 students) @ IST
 
-2022  Black holes and gravitational waves. Master and PhD course @ IST
+2022-2023  Black holes and gravitational waves. Master and PhD course @ IST
 
-2021 Black holes and gravitational waves. Master and PhD course @ IST
+2021-2022 Black holes and gravitational waves. Master and PhD course @ IST
+
+2020 & 2021 crash course on the use of xAct in Wolfam Mathematica @ IMB & @ IST
 
 ## Grants
 
