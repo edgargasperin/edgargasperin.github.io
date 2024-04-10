@@ -76,11 +76,11 @@ Some of my recorded research talks can be found here:
 
 [Video - Royal Society London](https://www.youtube.com/watch?v=yRD__WXVqN0&list=PLg7f-TkW11iX-bN_5mnvWGBdrw5ljfC8X),
 
-[Video - CENTRA seminar](https://www.youtube.com/watch?v=E18QPZD0rsw&t=963s)
+[Video - CENTRA seminar Lisbon](https://www.youtube.com/watch?v=E18QPZD0rsw&t=963s)
 
-[Video - Banff](https://www.birs.ca/events/2022/5-day-workshops/22w5025/videos/watch/202204271016-GasperinGarcia.html) 
+[Video - Banff Canada](https://www.birs.ca/events/2022/5-day-workshops/22w5025/videos/watch/202204271016-GasperinGarcia.html) 
 
-[Video F-Ciencias UNAM](https://www.facebook.com/matefcienciasunam/videos/333825669643721/)
+[Video F-Ciencias UNAM] (https://www.facebook.com/matefcienciasunam/videos/333825669643721/)
 
 
 ## Publications
