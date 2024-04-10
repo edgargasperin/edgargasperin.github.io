@@ -98,7 +98,7 @@ Radio UNAM participation (Mexico) [website](https://www.radiopodcast.unam.mx/pod
 
 Outreach talk at Orizaba Planetarium (Mexico).
 
-Pint of Science outreach talk (UK).
+Pint of Science outreach talk (London).
 
 Outreach talk at NAPE skills factory (Lisbon).
 
