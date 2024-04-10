@@ -61,8 +61,11 @@ Local-organising comitee member of GWverse global meeting in Lisbon [website](ht
 
 Co-organiser of the Joint Online Mathematical Relativity Colloquium [website](https://jomarec.org/about-us/)
 
-Some of my recorded scientific talks  can be watched here [Royal Society London] (https://www.youtube.com/watch?v=yRD__WXVqN0&list=PLg7f-TkW11iX-bN_5mnvWGBdrw5ljfC8X), [CENTRA seminar] (https://www.youtube.com/watch?v=E18QPZD0rsw&t=963s),
-[Banff] (https://www.birs.ca/events/2022/5-day-workshops/22w5025/videos/watch/202204271016-GasperinGarcia.html) or [F-Ciencias UNAM] ()
+Some of my recorded scientific talks  can be watched here [Royal Society London] (https://www.youtube.com/watch?v=yRD__WXVqN0&list=PLg7f-TkW11iX-bN_5mnvWGBdrw5ljfC8X),
+
+[CENTRA seminar] (https://www.youtube.com/watch?v=E18QPZD0rsw&t=963s)
+
+[Banff] (https://www.birs.ca/events/2022/5-day-workshops/22w5025/videos/watch/202204271016-GasperinGarcia.html) 
 
 
 ## Publications
