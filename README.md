@@ -61,7 +61,7 @@ Local-organising comitee member of GWverse global meeting in Lisbon [website](ht
 
 Co-organiser of the Joint Online Mathematical Relativity Colloquium [website](https://jomarec.org/about-us/)
 
-Some of my recorded scientific talks  can be watched here [In English] ( ) or [In Spanish] ()
+Some of my recorded scientific talks  can be watched here [Royal Society London] (https://www.youtube.com/watch?v=yRD__WXVqN0&list=PLg7f-TkW11iX-bN_5mnvWGBdrw5ljfC8X), [CENTRA seminar] (https://www.youtube.com/watch?v=E18QPZD0rsw&t=958s) or [F-Ciencias UNAM] ()
 
 
 ## Publications
@@ -82,9 +82,9 @@ Pint of Science outreach talk (UK).
 
 Outreach talk at NAPE skills factory (Lisbon).
 
-Talk at VIII Jornadas de Engenharia F\'isica'' en IST (Lisbon).
+Talk at VIII Jornadas de Engenharia Física en IST (Lisbon).
 
-Round table at VIII Jornadas de Engenharia F\'isica'' en IST (Lisbon).
+Round table at VIII Jornadas de Engenharia Física en IST (Lisbon).
 
 Minicours at the 11th School on Astrophysics and Gravitation (Lisbon) [website] (https://centra.tecnico.ulisboa.pt/network/eag11)
 
