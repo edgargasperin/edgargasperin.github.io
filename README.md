@@ -8,7 +8,7 @@ My research is concerned with the analysis of global properties of solutions to 
 
 ## Current position 
 
-Fundação para a Ciência e a Tecnologia [(FCT)](https://www.fct.pt/) fellow at Instituto Superior Técnico [(CENTRA-IST)](https://centra.tecnico.ulisboa.pt/team/?id=4674)
+Fundação para a Ciência e a Tecnologia [(FCT)](https://www.fct.pt/) fellowship at Instituto Superior Técnico [(CENTRA-IST)](https://centra.tecnico.ulisboa.pt/team/?id=4674)
 
 ## Past positions
 
