@@ -70,7 +70,7 @@ Local-organising comitee member of GWverse global meeting @ Lisbon [conference w
 
 Co-organiser of the Joint Online Mathematical Relativity Colloquium @ online [colloquium website](https://jomarec.org/about-us/)
 
-Member of the hyperboloidal research Network @ online [website](https://hyperboloid.al/people/)
+Member of the hyperboloidal Research Network @ online [Network Website](https://hyperboloid.al/people/)
 
 Some of my recorded research talks can be found here:
 
