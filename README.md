@@ -56,11 +56,11 @@ Ghewa Dorra.Master year-1 project supervision @ IMB
 
 FCT - PeX R&D grant --exploratory project grant to hire a postdoc.
 
-FCT Research Fellowship.
+FCT Research Fellowship --6 year research employment.
 
-CONACyT phd studentship.
+CONACyT phd studentship --for posgraduate studies abroad.
 
-SEP phd complement scholarship.
+SEP phd complement scholarship --for posgraduate studies abroad.
 
 ## International reach
 
