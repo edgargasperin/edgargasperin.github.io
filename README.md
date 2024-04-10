@@ -1,7 +1,14 @@
+# In a nutshel
+
+I'm an FCT-researcher at the Center for Astrophysics and Gravitatin (CENTRA) in Instituto Superior Técnico in Lisbon [website](https://centra.tecnico.ulisboa.pt/) 
+
+My research is concerned with the analysis of global properties of solutions to the Einstein field equations at the conformal boundary. I'm primarily interested in the initial value problem in General Relativity.
+
 # Academic trajectory
 
 ## Current position and affilitation
-Fundação para a Ciência e a Tecnologia fellow at Instituto Superior Técnico (IST)
+
+[Fundação para a Ciência e a Tecnologia](https://www.fct.pt/) fellow at Instituto Superior Técnico (IST)
 
 ## Past positions
 
@@ -19,21 +26,21 @@ BSc Physics, Universidad Nacional Autónoma de México.
 
 ## Supervision
 
-Dr Miguel Duarte. Postdoc project supervision. 
+Dr Miguel Duarte. Postdoc project supervision @ IST
 
-Christian Peterson. PhD thesis cosupervision.
+Christian Peterson. PhD thesis cosupervision @ IST
 
-Rafael Pinto. Master thesis supervision.
+Rafael Pinto. Master thesis supervision @ IST
 
-Francisco Pais. Master thesis supervision.
+Francisco Pais. Master thesis supervision @ IST
 
-Manuel Ratola. BSc thesis supervision.
+Manuel Ratola. BSc thesis supervision @IST
 
-João Dinis Álvarez. Gulbenkian project supervision.
+João Dinis Álvarez. Gulbenkian project supervision @ IST
 
-Firoz Khan. Master year-1 project supervision.
+Firoz Khan. Master year-1 project supervision @ IST
 
-Ghewa Dorra.Master year-1 project supervision.
+Ghewa Dorra.Master year-1 project supervision @ IMB
 
 ## Teaching
 
@@ -63,22 +70,24 @@ Co-organiser of the Joint Online Mathematical Relativity Colloquium [website](ht
 
 Some of my recorded research talks can be watched here:
 
-[Royal Society London](https://www.youtube.com/watch?v=yRD__WXVqN0&list=PLg7f-TkW11iX-bN_5mnvWGBdrw5ljfC8X),
+[Video - Royal Society London](https://www.youtube.com/watch?v=yRD__WXVqN0&list=PLg7f-TkW11iX-bN_5mnvWGBdrw5ljfC8X),
 
-[CENTRA seminar](https://www.youtube.com/watch?v=E18QPZD0rsw&t=963s)
+[Video - CENTRA seminar](https://www.youtube.com/watch?v=E18QPZD0rsw&t=963s)
 
-[Banff](https://www.birs.ca/events/2022/5-day-workshops/22w5025/videos/watch/202204271016-GasperinGarcia.html) 
+[Video Banff](https://www.birs.ca/events/2022/5-day-workshops/22w5025/videos/watch/202204271016-GasperinGarcia.html) 
 
 
 ## Publications
 
+[ORCID](https://orcid.org/0000-0003-1170-5121)
+[Arxiv](https://arxiv.org/search/?searchtype=author&query=Gasperin%2C+E)
 
 
 ## Outreach
 
-Outreach talk in the Mexican Space Agency (Mexico) [website](https://www.gob.mx/aem/videos/seminario-agujeros-negros-y-efectos-relativistas-en-viajes-espaciales-parte-i)
+Outreach talk in the Mexican Space Agency (Mexico) [Video](https://www.gob.mx/aem/videos/seminario-agujeros-negros-y-efectos-relativistas-en-viajes-espaciales-parte-i)
 
-Interview at the Mexican Space Agency (Mexico) [website](http://haciaelespacio.aem.gob.mx/revistadigital/articul.php?interior=989)
+Interview at the Mexican Space Agency (Mexico) [Video](http://haciaelespacio.aem.gob.mx/revistadigital/articul.php?interior=989)
 
 Radio UNAM participation (Mexico) [website](https://www.radiopodcast.unam.mx/podcast/audio/18778)
 
@@ -90,9 +99,9 @@ Outreach talk at NAPE skills factory (Lisbon).
 
 Talk at VIII Jornadas de Engenharia Física en IST (Lisbon).
 
-Round table at VIII Jornadas de Engenharia Física en IST (Lisbon). [website](https://www.youtube.com/watch?v=YA02G94OeV0)
+Round table at VIII Jornadas de Engenharia Física en IST (Lisbon). [Video](https://www.youtube.com/watch?v=YA02G94OeV0)
 
-Minicours at the 11th School on Astrophysics and Gravitation (Lisbon) [website](https://centra.tecnico.ulisboa.pt/network/eag11)
+Minicours at the 11th School on Astrophysics and Gravitation (Lisbon) [Video](https://centra.tecnico.ulisboa.pt/network/eag11)
 
 
 
