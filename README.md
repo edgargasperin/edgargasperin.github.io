@@ -6,9 +6,9 @@ My research is concerned with the analysis of global properties of solutions to 
 
 # Academic trajectory
 
-## Current position and affilitation
+## Current position 
 
-Fundação para a Ciência e a Tecnologia [(FCT)](https://www.fct.pt/) fellow at Instituto Superior Técnico (IST)
+Fundação para a Ciência e a Tecnologia [(FCT)](https://www.fct.pt/) fellow at Instituto Superior Técnico [(CENTRA-IST)](https://centra.tecnico.ulisboa.pt/team/?id=4674)
 
 ## Past positions
 
