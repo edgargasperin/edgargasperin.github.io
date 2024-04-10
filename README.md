@@ -1,6 +1,6 @@
-# In a nutshell
+# Edgar Gasperín's homepage
 
-I'm an FCT-researcher at the Center for Astrophysics and Gravitation (CENTRA) in Instituto Superior Técnico in Lisbon [(IST)](https://centra.tecnico.ulisboa.pt/) 
+I'm an FCT-researcher at the Center for Astrophysics and Gravitation [(CENTRA)](https://centra.tecnico.ulisboa.pt/) in Instituto Superior Técnico in Lisbon (IST)
 
 My research is concerned with the analysis of global properties of solutions to the Einstein field equations and the inclusion of the conformal boundary in the initial value problem in General Relativity.
 
@@ -12,9 +12,9 @@ Fundação para a Ciência e a Tecnologia [(FCT)](https://www.fct.pt/) fellow at
 
 ## Past positions
 
-Postdoc researcher at Institut de Mathématiques de Bourgogne (IMB)
+Postdoc researcher at Institut de Mathématiques de Bourgogne [(IMB)](https://math.u-bourgogne.fr/)
 
-Postdoc researcher at Instituto Superior Técnico (IST)
+Postdoc researcher at Instituto Superior Técnico - Lisboa [(IST)](https://tecnico.ulisboa.pt/pt/)
 
 ## Education
 
@@ -51,9 +51,10 @@ Ghewa Dorra.Master year-1 project supervision @ IMB
 2021-2022 Black holes and gravitational waves. Master and PhD course @ IST
 
 2020 & 2021 crash course on the use of xAct in Wolfam Mathematica @ IST & @ IMB
+
 ## Grants
 
-PeX R\&D grant --exploratory project grant to hire a postdoc for 18 months.
+FCT - PeX R&D grant --exploratory project grant to hire a postdoc.
 
 FCT Research Fellowship.
 
@@ -63,11 +64,11 @@ SEP phd complement scholarship.
 
 ## International reach
 
-Co-organiser of At the Interface of Mathematical Relativity and Astrophysics (22w5025) @ Banff [website](https://www.birs.ca/events/2022/5-day-workshops/22w5025)
+Co-organiser of At the Interface of Mathematical Relativity and Astrophysics (22w5025) @ Banff [conference website](https://www.birs.ca/events/2022/5-day-workshops/22w5025)
 
-Local-organising comitee member of GWverse global meeting in Lisbon [website](https://gwverse.tecnico.ulisboa.pt/news/?id=76)
+Local-organising comitee member of GWverse global meeting @ Lisbon [conference website](https://gwverse.tecnico.ulisboa.pt/news/?id=76)
 
-Co-organiser of the Joint Online Mathematical Relativity Colloquium [website](https://jomarec.org/about-us/)
+Co-organiser of the Joint Online Mathematical Relativity Colloquium @ online [colloquium website](https://jomarec.org/about-us/)
 
 Some of my recorded research talks can be watched here:
 
