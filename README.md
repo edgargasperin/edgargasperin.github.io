@@ -102,7 +102,7 @@ Pint of Science outreach talk (London).
 
 Outreach talk at NAPE skills factory (Lisbon).
 
-Talk at VIII Jornadas de Engenharia Física en IST (Lisbon).
+Talk at VIII Jornadas de Engenharia Física in IST (Lisbon).
 
 Round table at VIII Jornadas de Engenharia Física en IST (Lisbon). [Video](https://www.youtube.com/watch?v=YA02G94OeV0)
 
