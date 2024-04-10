@@ -8,7 +8,7 @@ My research is concerned with the analysis of global properties of solutions to 
 
 ## Current position and affilitation
 
-[Fundação para a Ciência e a Tecnologia](https://www.fct.pt/) fellow at Instituto Superior Técnico (IST)
+Fundação para a Ciência e a Tecnologia [(FCT)](https://www.fct.pt/) fellow at Instituto Superior Técnico (IST)
 
 ## Past positions
 
