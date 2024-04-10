@@ -1,6 +1,6 @@
 # In a nutshel
 
-I'm an FCT-researcher at the Center for Astrophysics and Gravitatin (CENTRA) in Instituto Superior Técnico in Lisbon [website](https://centra.tecnico.ulisboa.pt/) 
+I'm an FCT-researcher at the Center for Astrophysics and Gravitatin (CENTRA) in Instituto Superior Técnico in Lisbon [(IST)](https://centra.tecnico.ulisboa.pt/) 
 
 My research is concerned with the analysis of global properties of solutions to the Einstein field equations at the conformal boundary. I'm primarily interested in the initial value problem in General Relativity.
 
