@@ -56,7 +56,7 @@ Ghewa Dorra.Master year-1 project supervision @ IMB
 
 FCT - PeX R&D grant --exploratory project grant to hire a postdoc.
 
-FCT Research Fellowship --6 year research employment.
+FCT Research Fellowship --6-year research employment.
 
 CONACyT phd studentship --for posgraduate studies abroad.
 
@@ -66,11 +66,11 @@ SEP phd complement scholarship --for posgraduate studies abroad.
 
 Co-organiser of At the Interface of Mathematical Relativity and Astrophysics (22w5025) @ Banff [conference website](https://www.birs.ca/events/2022/5-day-workshops/22w5025)
 
-Local-organising comitee member of GWverse global meeting @ Lisbon [conference website](https://gwverse.tecnico.ulisboa.pt/news/?id=76)
-
 Co-organiser of the Joint Online Mathematical Relativity Colloquium @ online [colloquium website](https://jomarec.org/about-us/)
 
-Member of the hyperboloidal Research Network @ online [Network Website](https://hyperboloid.al/people/)
+Member of the Hyperboloidal Research Network @ online [Hyp Website](https://hyperboloid.al/people/)
+
+Local-organising comitee member of GWverse global meeting @ Lisbon [conference website](https://gwverse.tecnico.ulisboa.pt/news/?id=76)
 
 Some of my recorded research talks can be found here:
 
