@@ -21,7 +21,7 @@ Postdoc researcher at Instituto Superior Técnico - Lisboa, Portugal [(IST)](htt
 PhD in Mathematics, Queen Mary University of London, London, UK.
 [Thesis](https://qmro.qmul.ac.uk/xmlui/handle/123456789/25820)
 
-BSc Physics, Universidad Nacional Autónoma de México. Mexico city, Mex.
+BSc Physics, Universidad Nacional Autónoma de México. cdmx, Mex.
 [Dissertation](https://repositorio.unam.mx/contenidos/411870)
 
 ## Supervision
@@ -69,6 +69,8 @@ Co-organiser of At the Interface of Mathematical Relativity and Astrophysics (22
 Local-organising comitee member of GWverse global meeting @ Lisbon [conference website](https://gwverse.tecnico.ulisboa.pt/news/?id=76)
 
 Co-organiser of the Joint Online Mathematical Relativity Colloquium @ online [colloquium website](https://jomarec.org/about-us/)
+
+Member of the hyperboloidal research Network @ online [website](https://hyperboloid.al/people/)
 
 Some of my recorded research talks can be found here:
 
