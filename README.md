@@ -70,7 +70,7 @@ Local-organising comitee member of GWverse global meeting @ Lisbon [conference w
 
 Co-organiser of the Joint Online Mathematical Relativity Colloquium @ online [colloquium website](https://jomarec.org/about-us/)
 
-Some of my recorded research talks can be watched here:
+Some of my recorded research talks can be found here:
 
 [Video - Royal Society London](https://www.youtube.com/watch?v=yRD__WXVqN0&list=PLg7f-TkW11iX-bN_5mnvWGBdrw5ljfC8X),
 
