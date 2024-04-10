@@ -50,8 +50,7 @@ Ghewa Dorra.Master year-1 project supervision @ IMB
 
 2021-2022 Black holes and gravitational waves. Master and PhD course @ IST
 
-2020 & 2021 crash course on the use of xAct in Wolfam Mathematica @ IMB & @ IST
-
+2020 & 2021 crash course on the use of xAct in Wolfam Mathematica @ IST & @ IMB
 ## Grants
 
 PeX R\&D grant --exploratory project grant to hire a postdoc for 18 months.
