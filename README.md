@@ -61,7 +61,8 @@ Local-organising comitee member of GWverse global meeting in Lisbon [website](ht
 
 Co-organiser of the Joint Online Mathematical Relativity Colloquium [website](https://jomarec.org/about-us/)
 
-Some of my recorded scientific talks  can be watched here [Royal Society London] (https://www.youtube.com/watch?v=yRD__WXVqN0&list=PLg7f-TkW11iX-bN_5mnvWGBdrw5ljfC8X), [CENTRA seminar] (https://www.youtube.com/watch?v=E18QPZD0rsw&t=958s) or [F-Ciencias UNAM] ()
+Some of my recorded scientific talks  can be watched here [Royal Society London] (https://www.youtube.com/watch?v=yRD__WXVqN0&list=PLg7f-TkW11iX-bN_5mnvWGBdrw5ljfC8X), [CENTRA seminar] (https://www.youtube.com/watch?v=E18QPZD0rsw&t=963s),
+[Banff] (https://www.birs.ca/events/2022/5-day-workshops/22w5025/videos/watch/202204271016-GasperinGarcia.html) or [F-Ciencias UNAM] ()
 
 
 ## Publications
@@ -84,7 +85,7 @@ Outreach talk at NAPE skills factory (Lisbon).
 
 Talk at VIII Jornadas de Engenharia Física en IST (Lisbon).
 
-Round table at VIII Jornadas de Engenharia Física en IST (Lisbon).
+Round table at VIII Jornadas de Engenharia Física en IST (Lisbon). [website] (https://www.youtube.com/watch?v=YA02G94OeV0)
 
 Minicours at the 11th School on Astrophysics and Gravitation (Lisbon) [website] (https://centra.tecnico.ulisboa.pt/network/eag11)
 
