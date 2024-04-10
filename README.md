@@ -78,9 +78,9 @@ Some of my recorded research talks can be watched here:
 
 Outreach talk in the Mexican Space Agency (Mexico) [website](https://www.gob.mx/aem/videos/seminario-agujeros-negros-y-efectos-relativistas-en-viajes-espaciales-parte-i)
 
-Interview at the Mexican Space Agency (Mexico) [website][http://haciaelespacio.aem.gob.mx/revistadigital/articul.php?interior=989]
+Interview at the Mexican Space Agency (Mexico) [website](http://haciaelespacio.aem.gob.mx/revistadigital/articul.php?interior=989)
 
-Radio UNAM participation (Mexico) [website] [https://www.radiopodcast.unam.mx/podcast/audio/18778]
+Radio UNAM participation (Mexico) [website](https://www.radiopodcast.unam.mx/podcast/audio/18778)
 
 Outreach talk at Orizaba Planetarium (Mexico).
 
@@ -90,9 +90,9 @@ Outreach talk at NAPE skills factory (Lisbon).
 
 Talk at VIII Jornadas de Engenharia Física en IST (Lisbon).
 
-Round table at VIII Jornadas de Engenharia Física en IST (Lisbon). [website] (https://www.youtube.com/watch?v=YA02G94OeV0)
+Round table at VIII Jornadas de Engenharia Física en IST (Lisbon). [website](https://www.youtube.com/watch?v=YA02G94OeV0)
 
-Minicours at the 11th School on Astrophysics and Gravitation (Lisbon) [website] (https://centra.tecnico.ulisboa.pt/network/eag11)
+Minicours at the 11th School on Astrophysics and Gravitation (Lisbon) [website](https://centra.tecnico.ulisboa.pt/network/eag11)
 
 
 
