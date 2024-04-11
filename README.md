@@ -38,7 +38,7 @@ Manuel Ratola. BSc thesis supervision @ IST
 
 João Dinis Álvarez. Gulbenkian project supervision @ IST
 
-Firoz Khan. Master year-1 project supervision @ IST
+Firoz Khan. Master year-1 project supervision @ IMB
 
 Ghewa Dorra.Master year-1 project supervision @ IMB
 
