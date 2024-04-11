@@ -108,7 +108,7 @@ Talk at VIII Jornadas de Engenharia Física in IST (Lisbon).
 
 Round table at VIII Jornadas de Engenharia Física en IST (Lisbon). [Video](https://www.youtube.com/watch?v=YA02G94OeV0)
 
-Minicourse at the 11th School on Astrophysics and Gravitation (Lisbon) [Video](https://centra.tecnico.ulisboa.pt/network/eag11)
+Minicourse at the 11th School on Astrophysics and Gravitation (Lisbon) [website](https://centra.tecnico.ulisboa.pt/network/eag11)
 
 
 
