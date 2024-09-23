@@ -50,7 +50,9 @@ Ghewa Dorra.Master year-1 project supervision @ IMB
 
 2021-2022 Black holes and gravitational waves. MSc & PhD course @ IST
 
-2020 & 2021 crash course on the use of xAct in Mathematica @ IST & @ IMB
+2020 & 2021 crash course on the use of xAct in Mathematica @ IST & @ IMB 
+
+2024 short course on the use of xAct at Division of Gravitation and Mathematical Physics (DGFM) of the Mexican Physical Society (SMF) @ Online  
 
 ## Grants
 
