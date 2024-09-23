@@ -30,6 +30,8 @@ Dr Miguel Duarte. Postdoc project supervision @ IST
 
 Christian Peterson. PhD thesis cosupervision @ IST
 
+Miguel Pereira. Master thesis supervision @ IST
+
 Rafael Pinto. Master thesis supervision @ IST
 
 Francisco Pais. Master thesis supervision @ IST
@@ -109,6 +111,8 @@ Talk at VIII Jornadas de Engenharia Física in IST (Lisbon).
 Round table at VIII Jornadas de Engenharia Física en IST (Lisbon). [Video](https://www.youtube.com/watch?v=YA02G94OeV0)
 
 Minicourse at the 11th School on Astrophysics and Gravitation (Lisbon) [website](https://centra.tecnico.ulisboa.pt/network/eag11)
+
+The material for the xAct crash course I've given can be found here [website](https://edgargasperin.github.io/xact-workshop/)
 
 
 
