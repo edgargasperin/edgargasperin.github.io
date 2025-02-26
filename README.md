@@ -112,6 +112,8 @@ Round table at VIII Jornadas de Engenharia Física en IST (Lisbon). [Video](http
 
 Minicourse at the 11th School on Astrophysics and Gravitation (Lisbon) [website](https://centra.tecnico.ulisboa.pt/network/eag11)
 
+## Workshop on xAct-Mathematica
+
 The material for the xAct crash course I've given can be found here [website](https://edgargasperin.github.io/xact-workshop/)
 
 
