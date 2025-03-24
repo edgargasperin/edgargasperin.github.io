@@ -26,23 +26,29 @@ BSc Physics, Universidad Nacional Autónoma de México. cdmx, Mex.
 
 ## Supervision
 
-Dr Miguel Duarte. Postdoc project supervision @ IST
+Dr Miguel Duarte. Postdoc project  @ IST
 
-Christian Peterson. PhD thesis cosupervision @ IST
+Dr. Mariem Magdy Ali Mohamed. Postdoc project  @IST
 
-Miguel Pereira. Master thesis supervision @ IST
+Christian Peterson. PhD thesis  @ IST
 
-Rafael Pinto. Master thesis supervision @ IST
+Miguel Pereira. Master thesis  @ IST
 
-Francisco Pais. Master thesis supervision @ IST
+Miguel Maria Lopes Parreira @ IST
 
-Manuel Ratola. BSc thesis supervision @ IST
+Rafael Pinto. Master thesis  @ IST
 
-João Dinis Álvarez. Gulbenkian project supervision @ IST
+Francisco Pais. Master thesis  @ IST
 
-Firoz Khan. Master year-1 project supervision @ IMB
+Manuel Ratola. BSc thesis  @ IST
 
-Ghewa Dorra.Master year-1 project supervision @ IMB
+Ângela de Oliveira Rodrigues  @ IST
+
+João Dinis Álvarez. Gulbenkian project  @ IST
+
+Firoz Khan. Master year-1 project  @ IMB
+
+Ghewa Dorra.Master year-1 project  @ IMB
 
 ## Teaching
 
@@ -71,6 +77,10 @@ SEP phd complement scholarship --for posgraduate studies abroad.
 Co-organiser of At the Interface of Mathematical Relativity and Astrophysics (22w5025) @ Banff [conference website](https://www.birs.ca/events/2022/5-day-workshops/22w5025)
 
 Co-organiser of the Joint Online Mathematical Relativity Colloquium @ online [colloquium website](https://jomarec.org/about-us/)
+
+Topic Editor in special issue  “Quasi-Normal Modes, Non-Selfadjoint Operators and
+Pseudospectrum: an Interdisciplinary Approach” [Website](https://www.frontiersin.org/research-topics/57195/quasi-normal-modes-non-selfadjoint-operators-and-
+pseudospectrum-an-interdisciplinary-approach)
 
 Member of the Hyperboloidal Research Network @ online [Hyp Website](https://hyperboloid.al/people/)
 
