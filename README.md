@@ -77,8 +77,7 @@ Co-organiser of At the Interface of Mathematical Relativity and Astrophysics (22
 Co-organiser of the Joint Online Mathematical Relativity Colloquium @ online [colloquium website](https://jomarec.org/about-us/)
 
 Topic Editor in special issue  “Quasi-Normal Modes, Non-Selfadjoint Operators and
-Pseudospectrum: an Interdisciplinary Approach” [Website](https://www.frontiersin.org/research-topics/57195/quasi-normal-modes-non-selfadjoint-operators-and-
-pseudospectrum-an-interdisciplinary-approach)
+Pseudospectrum: an Interdisciplinary Approach” [Website](https://www.frontiersin.org/research-topics/57195/quasi-normal-modes-non-selfadjoint-operators-and-pseudospectrum-an-interdisciplinary-approach)
 
 Member of the Hyperboloidal Research Network @ online [Hyp Website](https://hyperboloid.al/people/)
 
