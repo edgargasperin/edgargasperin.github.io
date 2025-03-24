@@ -34,15 +34,13 @@ Christian Peterson. PhD thesis  @ IST
 
 Miguel Pereira. Master thesis  @ IST
 
-Miguel Maria Lopes Parreira @ IST
-
 Rafael Pinto. Master thesis  @ IST
 
 Francisco Pais. Master thesis  @ IST
 
 Manuel Ratola. BSc thesis  @ IST
 
-Ângela de Oliveira Rodrigues  @ IST
+Ângela de Oliveira Rodrigues. BSc thesis  @ IST
 
 João Dinis Álvarez. Gulbenkian project  @ IST
 
