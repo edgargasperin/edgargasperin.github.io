@@ -32,8 +32,6 @@ Dr. Mariem Magdy Ali Mohamed. Postdoc project  @IST
 
 Christian Peterson. PhD thesis  @ IST
 
-Miguel Pereira. Master thesis  @ IST
-
 Rafael Pinto. Master thesis  @ IST
 
 Francisco Pais. Master thesis  @ IST
