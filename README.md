@@ -1,16 +1,12 @@
 # Edgar Gasperín's homepage
 
-I'm an FCT-researcher at the Center for Astrophysics and Gravitation [(CENTRA)](https://centra.tecnico.ulisboa.pt/) in Instituto Superior Técnico in Lisbon (IST)
+Currently, I'm in the process of changing affiliations. In January 2026 I'll be joining the Institute of Nuclear Sciences at UNAM [(ICN-UNAM)](https://www.nucleares.unam.mx/index.php).
 
 My research is concerned with the analysis of global properties of solutions to the Einstein field equations and the inclusion of the conformal boundary in the initial value problem in General Relativity.
 
 # Academic trajectory
 
-## Current position 
-
-Fundação para a Ciência e a Tecnologia [(FCT)](https://www.fct.pt/) fellowship at Instituto Superior Técnico [(CENTRA-IST)](https://centra.tecnico.ulisboa.pt/team/?id=4674)
-
-## Past positions
+FCT-investigator: Fundação para a Ciência e a Tecnologia [(FCT)](https://www.fct.pt/) fellowship at Instituto Superior Técnico [(CENTRA-IST)](https://centra.tecnico.ulisboa.pt/team/?id=4674)
 
 Postdoc researcher at Institut de Mathématiques de Bourgogne - Dijon, France [(IMB)](https://math.u-bourgogne.fr/)
 
