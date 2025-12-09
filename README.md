@@ -8,8 +8,6 @@ My research is concerned with the analysis of global properties of solutions to 
 
 # Academic trajectory
 
-Investigador, Instituto de Ciencias Nucleares UNAM.
-
 FCT-investigator: Fundação para a Ciência e a Tecnologia [(FCT)](https://www.fct.pt/) fellowship at Instituto Superior Técnico [(CENTRA-IST)](https://centra.tecnico.ulisboa.pt/team/?id=4674)
 
 Postdoc researcher at Institut de Mathématiques de Bourgogne - Dijon, France [(IMB)](https://math.u-bourgogne.fr/)
