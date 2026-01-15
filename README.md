@@ -119,7 +119,7 @@ The material for the xAct crash course I've given can be found here [website](ht
 
 ## Contact
 
-e[dot]gasperin[at]nucleares.unam.mx
+e[dot]gasperin[at]nucleares[dot]unam[dot]mx
 
 
 
