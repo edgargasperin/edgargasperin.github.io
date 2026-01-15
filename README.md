@@ -1,12 +1,10 @@
 # Edgar Gasperín's homepage
 
-Currently, I'm in the process of changing affiliations. 
-
-In January 2026 I'll be joining the Institute of Nuclear Sciences at UNAM [(ICN-UNAM)](https://www.nucleares.unam.mx/index.php).
-
 My research is concerned with the analysis of global properties of solutions to the Einstein field equations and the inclusion of the conformal boundary in the initial value problem in General Relativity.
 
 # Academic trajectory
+
+Researcher at Institute of Nuclear Sciences at UNAM [(ICN-UNAM)](https://www.nucleares.unam.mx/index.php).
 
 FCT-investigator: Fundação para a Ciência e a Tecnologia [(FCT)](https://www.fct.pt/) fellowship at Instituto Superior Técnico [(CENTRA-IST)](https://centra.tecnico.ulisboa.pt/team/?id=4674)
 
