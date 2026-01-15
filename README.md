@@ -117,6 +117,10 @@ Minicourse at the 11th School on Astrophysics and Gravitation (Lisbon) [website]
 
 The material for the xAct crash course I've given can be found here [website](https://edgargasperin.github.io/xact-workshop/)
 
+## Contact
+
+e[dot]gasperin[at]nucleares.unam.mx
+
 
 
 
