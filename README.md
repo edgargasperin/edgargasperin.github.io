@@ -44,6 +44,8 @@ Ghewa Dorra.Master year-1 project  @ IMB
 
 ## Teaching
 
+2026 Relativity. BSc 3rd year course @ UNAM
+
 2024 Waves and Oscillations. BSc first year course (>120 students) @ IST
 
 2022-2023  Black holes and gravitational waves. MSc & PhD course @ IST
@@ -84,6 +86,9 @@ Some of my recorded research talks can be found here:
 [Video - CENTRA seminar Lisbon](https://www.youtube.com/watch?v=E18QPZD0rsw&t=963s)
 
 [Video F-Ciencias UNAM](https://www.facebook.com/matefcienciasunam/videos/333825669643721/)
+
+[Video ICN - UNAM](https://www.youtube.com/watch?v=vNfy47TJPzE&t=28s)
+
 
 
 ## Publications
